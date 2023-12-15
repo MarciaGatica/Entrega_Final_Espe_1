@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "657a88b64f1fdd8d94d7da1b"
+  },
+  "nombre_usuario": "Marcia Gatica",
+  "clave": "$2b$10$W2O260WTdERShoOXRQwkHO2QnUDCodJia2eUaGMgeuui4Yubir/VC",
+  "email": "m.gatica05@ufromail.cl",
+  "telefono": "123456789",
+  "foto_usuario": "url_de_la_imagen.jpg",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-12-14T04:46:46.468Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T04:51:03.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657a8b8094bcec546adfbf37"
+  },
+  "nombre_usuario": "Marcia Gatica",
+  "clave": "$2b$10$mQ35EUgt32OxphjPmkgL6.kCyQXDPtYytaxzfS9fzKrKUFnQJRTnm",
+  "email": "m.email@email.cl",
+  "telefono": "123456789",
+  "foto_usuario": "url_de_la_imagen.jpg",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-12-14T04:58:40.565Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T04:58:40.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c5dc3f409a9a530073952"
+  },
+  "nombre_usuario": "julia",
+  "clave": "$2b$10$A3dVDaxbQ9yJMkRHJX8/de0Rp5cxs.87j9yuZKx1XfkqJlqgjOHF.",
+  "email": "usuario1@example.com",
+  "telefono": "234234",
+  "foto_usuario": "foto",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-12-15T14:08:03.016Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T14:08:03.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c6358f409a9a530073995"
+  },
+  "nombre_usuario": "Pedro",
+  "clave": "$2b$10$EXyaFsfiS41.E3DnA0bBgeAiY8PWdptDu65yZlSa6UPYncetyZXYO",
+  "email": "usuario2@example.com",
+  "telefono": "216354",
+  "foto_usuario": "foto",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-12-15T14:31:52.834Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T14:31:52.834Z"
+  },
+  "__v": 0
+}]

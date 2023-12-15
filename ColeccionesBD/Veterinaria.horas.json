@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "657a7a3d794c8f74e7773b2c"
+  },
+  "fecha": {
+    "$date": "2023-12-14T10:30:00.000Z"
+  },
+  "hora": 3,
+  "nombre_mascota": "Firulais",
+  "especie": "Perro",
+  "encargado": "Juan Pérez",
+  "id_usuario": "657a2e274eab74bd7f55c7a4",
+  "motivo": "Revisión de rutina",
+  "createdAt": {
+    "$date": "2023-12-14T03:45:01.908Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T03:45:01.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c6147f409a9a53007397a"
+  },
+  "fecha": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "hora": 4,
+  "nombre_mascota": "Paco",
+  "especie": "Perro",
+  "encargado": "Julia",
+  "id_usuario": "657c5dc3f409a9a530073952",
+  "motivo": "visitade rutina",
+  "createdAt": {
+    "$date": "2023-12-15T14:23:03.846Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T14:23:03.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c70cdf409a9a530073a55"
+  },
+  "fecha": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "hora": 4,
+  "nombre_mascota": "Poste",
+  "especie": "Gato",
+  "encargado": "Jose",
+  "id_usuario": "657a88b64f1fdd8d94d7da1b",
+  "motivo": "maulla mucho",
+  "createdAt": {
+    "$date": "2023-12-15T15:29:17.007Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T15:29:17.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c71f0f409a9a530073a58"
+  },
+  "fecha": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "hora": 4,
+  "nombre_mascota": "Pato",
+  "especie": "pato",
+  "encargado": "Juan",
+  "id_usuario": "657a88b64f1fdd8d94d7da1b",
+  "motivo": "no grazna",
+  "createdAt": {
+    "$date": "2023-12-15T15:34:08.578Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T15:34:08.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c725cf409a9a530073a5b"
+  },
+  "fecha": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "hora": 5,
+  "nombre_mascota": "Mordelona",
+  "especie": "gato",
+  "encargado": "Macarena",
+  "id_usuario": "657a88b64f1fdd8d94d7da1b",
+  "motivo": "hiperactividad",
+  "createdAt": {
+    "$date": "2023-12-15T15:35:56.294Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T15:35:56.294Z"
+  },
+  "__v": 0
+}]
